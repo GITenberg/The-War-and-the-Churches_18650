@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/521
     wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18650#The-War-and-the-Churches
 gutenberg_issued: '2006-06-22'
 gutenberg_type: Text
 identifiers:
