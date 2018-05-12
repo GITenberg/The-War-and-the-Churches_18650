@@ -1,0 +1,34 @@
+_repo: The-War-and-the-Churches_18650
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McCabe, Joseph
+    aliases:
+    - Antony, Father
+    - McCabe, Antony
+    - Macabe, Joseph
+    birthdate: 1867
+    deathdate: 1955
+    gutenberg_agent_id: '521'
+    url: http://www.gutenberg.org/2009/agents/521
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_McCabe
+description: ''
+gutenberg_issued: '2006-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18650'
+  lccn: '15015268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+tableOfContents: The responsibility of the churches -- Christianity and war -- The
+  apologies of the clergy -- The war and theism -- The human alternative.
+title: The War and the Churches
+url: http://www.gutenberg.org/ebooks/18650
